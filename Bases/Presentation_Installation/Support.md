@@ -141,4 +141,4 @@ Vous pouvez vérifier l'installation de 2 manières :
 
 [Why Use PlatformIO instead of Arduino? (youtube)](https://www.youtube.com/watch?v=iKLJv6rvpTs)
 
-[PlatformIO: All you need to know in 10 Minutes!](https://www.youtube.com/watch?v=PYSy_PLjytQ)
+[PlatformIO: All you need to know in 10 Minutes! (youtube)](https://www.youtube.com/watch?v=PYSy_PLjytQ)
