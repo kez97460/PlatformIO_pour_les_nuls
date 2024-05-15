@@ -36,7 +36,7 @@ img[alt~="center"] {
 
 ## Présentation et Installation de PlatformIO
 
-![bg right w:10cm](../../../images/pio_logo.png)
+![bg right w:10cm](../../images/pio_logo.png)
 
 ---
 
