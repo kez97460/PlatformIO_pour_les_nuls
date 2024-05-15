@@ -1,0 +1,1 @@
+# Différences entre PlatformIO et Arduino IDE
