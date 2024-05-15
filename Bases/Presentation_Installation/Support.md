@@ -139,6 +139,6 @@ Vous pouvez vérifier l'installation de 2 manières :
 
 [Official documentation](https://docs.platformio.org/en/latest/integration/ide/vscode.html#ide-vscode)
 
-[Why use platformIO (youtube)](https://www.youtube.com/watch?v=iKLJv6rvpTs)
+[Why Use PlatformIO instead of Arduino? (youtube)](https://www.youtube.com/watch?v=iKLJv6rvpTs)
 
-[PlatformIO Guide (youtube)](https://www.youtube.com/watch?v=PYSy_PLjytQ)
+[PlatformIO: All you need to know in 10 Minutes!](https://www.youtube.com/watch?v=PYSy_PLjytQ)
