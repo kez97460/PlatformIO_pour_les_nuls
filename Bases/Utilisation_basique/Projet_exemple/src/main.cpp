@@ -1,18 +1,19 @@
 #include <Arduino.h>
 
-// put function declarations here:
-int myFunction(int, int);
+#include "SerialLed.h"
 
-void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+SerialLed led;
+
+void setup()
+{
+    led.begin(LED_BUILTIN);
+    Serial.begin(9600);
+    while(!Serial);
+
+    Serial.println("Init OK");
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
-}
-
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+void loop()
+{
+    led.ReadCommand(Serial);
 }
